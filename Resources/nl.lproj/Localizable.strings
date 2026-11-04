@@ -1,0 +1,29 @@
+/* BringBar — Nederlands */
+
+"Sign in to Bring!" = "Inloggen bij Bring!";
+"Email" = "E-mail";
+"Password" = "Wachtwoord";
+"Signed up with Google or Apple? Set a password first in the Bring! app (Profile → Account)." = "Log je in via Google of Apple? Stel dan eerst een wachtwoord in via de Bring!-app (Profiel → Account).";
+"Sign in" = "Inloggen";
+"Add" = "Toevoegen";
+"List" = "Lijst";
+"Milk, eggs: 12, bread" = "Melk, eieren: 12 stuks, brood";
+"Separate items with commas; details go after a colon." = "Scheid items met komma's; details na een dubbele punt.";
+"On the list" = "Op de lijst";
+"Nothing left to buy" = "Niets meer te halen";
+"Check off" = "Afvinken";
+"Put back on the list" = "Terug op de lijst zetten";
+"Recently bought" = "Recent gekocht";
+"Launch at login" = "Start bij inloggen";
+"Login setting failed: %@" = "Instelling voor inloggen mislukt: %@";
+"Shortcut: ⌥⌘B" = "Sneltoets: ⌥⌘B";
+"Sign out" = "Uitloggen";
+"Quit BringBar" = "Stop BringBar";
+"Sign-in failed: check your email and password." = "Inloggen mislukt: controleer je e-mail en wachtwoord.";
+"Choose a list first." = "Kies eerst een lijst.";
+"Added: %@" = "Toegevoegd: %@";
+"Sign-in failed or session expired." = "Inloggen mislukt of sessie verlopen.";
+"The Bring! server returned error %d." = "De Bring!-server gaf fout %d.";
+"Unexpected response from Bring! (%@)." = "Onverwacht antwoord van Bring! (%@).";
+"Removed: %@" = "Verwijderd: %@";
+"Remove from the list" = "Van de lijst verwijderen";
